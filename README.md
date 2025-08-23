@@ -6,7 +6,7 @@
   <title>َQuit-it</title>
 </head>
 <body>
-  <h1>Fi-Notes</h1>
+  <h1>َQuit-it</h1>
   <p>مرحبًا بك في التطبيق !</p>
 </body>
 </html>
